@@ -1,0 +1,20 @@
+  body {
+  background-image: url('https://www.gannett-cdn.com/-mm-/9d1e0e27b1d1c0b236043279ceb547c968a223bc/c=0-899-4133-3234/local/-/media/2017/03/08/USATODAY/USATODAY/636245574411178649-GettyImages-532974458.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+  h{
+      font-size: 30px;
+  font-weight: bold;
+  color: #131515;
+  }
+  p1{
+  font-size: 30px;
+  font-weight: bold;
+  color: #131515
+  }
+  p{
+    font-size: 15px;
+    color:#052E28
+  }
